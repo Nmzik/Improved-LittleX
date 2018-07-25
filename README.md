@@ -7,4 +7,5 @@ Compared to original version:
 2) HomeBar switched off - looks ugly on 4.7 screen
 3) Works inside any app with no bugs (Mainly because of disabled "Larger keyboard" + "HomeBar")
 4) No support for iPhone X - Why do you even need that???
-5) No settings
+5) Improved battery life (Injecting inside apps only)
+6) No settings
